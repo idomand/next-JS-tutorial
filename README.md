@@ -1,1 +1,1 @@
-Implementing a basic blog app using the Next JS documentation.
+Implementing a basic blog app using Next JS.
