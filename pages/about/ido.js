@@ -1,9 +1,14 @@
 import Link from "next/link";
+import styled from "styled-components";
+
+const Title = styled.h1`
+  color: red;
+`;
 
 export default function aboutIdo() {
   return (
     <>
-      <h1>my name is ido</h1>;
+      <Title>my name is ido</Title>;
       <h1>
         go back
         <Link href="/">
